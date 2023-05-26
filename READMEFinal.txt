@@ -1,0 +1,1 @@
+We've coupled the src file with the package.json files and the tailwind config file for the css. You can create a new react app using npx create-react-app [...] and copy the files into the root file to get the project working properly.

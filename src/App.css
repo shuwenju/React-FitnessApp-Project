@@ -1,0 +1,28 @@
+@keyframes bounce {
+        20% {
+            transform: translateY(-10px);
+        }
+    
+        40% {
+            transform: none;
+        }
+    
+}
+
+.radio-button-label {
+    height: 8em; 
+    width: 8em; 
+  }
+
+.animate-bounce {
+    animation: bounce 1s ease-in 1;
+}
+
+.info-page {
+    max-height: 700px;
+}
+
+.goal-page {
+    max-height: 200px;
+}
+
